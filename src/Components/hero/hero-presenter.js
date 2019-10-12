@@ -4,8 +4,7 @@ const HeroPresenter = () => {
   return (
     <section id={"hero"}>
       <h1 className={"title"}>WELCOME</h1>
-
-      <div className={"hero-bg"}>
+        <div className={"hero-bg"}>
         <video className={'hero-video'}
                autoPlay={true}
           src={

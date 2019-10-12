@@ -4,9 +4,7 @@ import trdLogo from "../../assets/images/brazil-parkour-trans.png";
 const NavBarPresenter = props => {
   return (
     <nav id={"nav-bar"}>
-      <a href={"/"} className="badge">
-        <img src={trdLogo} alt={""} />
-      </a>
+
 
       <ul className="links">
         <li>
