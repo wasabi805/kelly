@@ -1,5 +1,5 @@
 import React from "react";
-import trdLogo from "../../assets/images/trd-sport-vector-logo.png";
+import trdLogo from "../../assets/images/brazil-parkour-trans.png";
 
 const NavBarPresenter = props => {
   return (
