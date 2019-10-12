@@ -4,7 +4,7 @@ import trdLogo from "../../assets/images/brazil-parkour-trans.png";
 const NavBarPresenter = props => {
   return (
     <nav id={"nav-bar"}>
-
+      <img src={trdLogo} alt={""} style={{maxWidth: '5vw'}}/>
 
       <ul className="links">
         <li>
